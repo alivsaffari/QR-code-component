@@ -15,7 +15,7 @@ body {
 }
 
 .main {
-    max-width: 300px;
+    max-width: 350px;
     margin: 0 auto;
     margin-top: 20vh;
 }
@@ -33,7 +33,7 @@ body {
 .card {
     background-color: var(--white);
     border-radius: 1rem;
-    padding: 1.2rem;
+    padding: 1em;
 }
 
 img {
@@ -46,10 +46,12 @@ img {
     color: var(--dark-blue);
     font-size: 1.5em;
     font-weight: 800;
+    padding: 0 1em;
 }
 
 .description {
     color: var(--grayish-blue);
     font-size: 1.1em;
     font-weight: 400;
+    padding: 0 1em;
 }
