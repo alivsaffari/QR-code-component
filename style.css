@@ -33,7 +33,7 @@ body {
 .card {
     background-color: var(--white);
     border-radius: 1rem;
-    padding: 1rem;
+    padding: 1.2rem;
 }
 
 img {
@@ -45,9 +45,11 @@ img {
 .title {
     color: var(--dark-blue);
     font-size: 1.5em;
+    font-weight: 800;
 }
 
 .description {
     color: var(--grayish-blue);
     font-size: 1.1em;
+    font-weight: 400;
 }
